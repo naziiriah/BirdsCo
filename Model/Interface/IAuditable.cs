@@ -1,0 +1,1 @@
+﻿namespace BirdsCo.Model.Interface;
